@@ -24,6 +24,7 @@ The analysis of the election shows that:
 	- Jefferson county contributed "10.5%" of the votes and 38,855 number of votes
 	- Denver county contributed "82.8%" of the votes and 306,055 number of votes
 	- Arapahoe county contributed "6.7%" of the votes and 24,801 number of votes
+- The largest turnout was from Denver county at "82.8%" of the votes and 306,055 number of votes
 - The candidates were:
 	- Charles Casper Stockham
 	- Diana DeGette
