@@ -8,16 +8,11 @@
 import csv
 import os
 
-# Assign a variable for the path where the files will be read from and written to
-filepath = "C:/Users/rusinghal/Desktop/Berkley Extension docs/Class Work/Python"
+# Assign a variable to load a file from a path
+file_to_load = os.path.join("Resources/election_results.csv")
 
-# Assign variables for 'read and write' file names
-pollfname="election_results.csv"
-resultsfname="election_analysis.txt"
-
-# Assign variable to load the files from/to the path
-file_to_load=os.path.join(filepath,pollfname)
-file_to_write=os.path.join(filepath,resultsfname)
+# Assign a variable to save the file to a path
+file_to_write = os.path.join("analysis", "election_analysis.txt")
 
 #######################################################
 # Initialize variables, arrays & Dictionaries
