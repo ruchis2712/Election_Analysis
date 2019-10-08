@@ -88,7 +88,7 @@ msg_to_prn=(
         f"-------------------------\n"
         f"Total Votes: {total_votes:,}\n"
         f"-------------------------\n\n"
-        f"County Votes:"
+        f"County Votes:\n"
     )
 
 # Retrieve vote count and percentage for each county
